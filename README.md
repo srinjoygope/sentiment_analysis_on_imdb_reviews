@@ -66,9 +66,8 @@ sentiment	Label: positive or negative.
 # How to Run the Project
 Clone the repository:
 
-bash
-Copy code
-git clone https://github.com/your-username/sentiment-analysis-logistic-regression.git
-cd sentiment-analysis-logistic-regression
-Place the IMDB dataset in the directory:
+``` git clone https://github.com/your-username/sentiment-analysis-logistic-regression.git
+``` cd sentiment-analysis-logistic-regression
+
+Place the IMDB dataset in the directory
 
