@@ -63,20 +63,28 @@ The dataset used is the IMDB Dataset of 50K Movie Reviews. It can be downloaded 
 
 1. Clone the repository:
 
-``` git clone https://github.com/your-username/sentiment-analysis-logistic-regression.git
+```bash
+git clone https://github.com/your-username/sentiment-analysis-logistic-regression.git
 
-``` cd sentiment-analysis-logistic-regression
+cd sentiment-analysis-logistic-regression
+```
 
 2. Run the following command for installing required libraries:
 
-``` pip install requirements.txt
+```bash
+pip install requirements.txt
+```
 
 3. For the project code run this command:
 
-``` jupyter notebook imdb_reviews_sentiment_analysis.ipynb
+```bash
+jupyter notebook imdb_reviews_sentiment_analysis.ipynb
+```
 
 4. To use the model open code with this command:
 
-``` jupyter notebook use_model.ipynb
+```bash
+jupyter notebook use_model.ipynb
+```
 
 
