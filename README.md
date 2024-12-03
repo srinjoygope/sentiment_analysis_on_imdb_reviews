@@ -56,7 +56,7 @@ Save the trained model and vectorizer as .sav and .pkl files for future use.
 
 
 ## Dataset
-The dataset used is the IMDB Dataset of 50K Movie Reviews. It can be downloaded from here.
+The dataset used is the IMDB Dataset of 50K Movie Reviews.
 
 
 ## How to Run the Project
@@ -88,3 +88,24 @@ jupyter notebook use_model.ipynb
 ```
 
 
+## Results:
+
+| Metric | Accuracy |
+|----------|----------|
+| Train data  | 92.38 % |
+| Test data  | 89.4 % |
+
+
+## Future Work:
+
+1. Experiment with other models like SVM, Random Forest, or Neural Networks.
+2. Add hyperparameter tuning to optimize model performance.
+3. Deploy the model using a web interface with Flask or Streamlit.
+
+
+## License:
+This project is licensed under the MIT License.
+
+
+## Author
+Srinjoy Gope
